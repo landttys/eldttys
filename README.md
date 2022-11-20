@@ -21,10 +21,19 @@
     <li><samp>TOOL'S</samp></li>
       <p align="left">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=linux" width="35px" />
+          <img src="https://skillicons.dev/icons?i=linux&theme=light" width="40px" />
+          <img src="https://skillicons.dev/icons?i=git" width="40px" />
+          <img src="https://skillicons.dev/icons?i=vim" width="40px" />
+          <img src="https://skillicons.dev/icons?i=docker" width="40px" />
         </a>
       </p>
     <li><samp>LANGUAGUE'S</samp></li>
+      <p align="left">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=html" width="40px" />
+          <img src="https://skillicons.dev/icons?i=md&theme=light" width="40px" />
+        </a>
+      </p>
     <li><samp>FRAMEWORK'S</samp></li>
   </ul>
 </p>
